@@ -185,8 +185,6 @@ print("R2 : % f" %(r2))
 ## Final Model output on WebApp
 ## Using Flask Heroku Web App
 
-Team Members : ![Ms. Deepika Goel](https://github.com/goeld9911)![Mr. Praneeth Kumar Pinni](https://github.com/praneeth300)!
-
 #### Deployment Steps : 
 
 To deploy model on Heroku we have 2 options, by Heroku CLI or by GitHub. We have selected deployment by GitHub
@@ -218,9 +216,6 @@ https://docs.google.com/presentation/d/15HfriKFJ5acUQJ1qqCTX2-4JDUT5InTOfC6PH3KF
 https://user-images.githubusercontent.com/80449168/120231906-002ce500-c270-11eb-9669-58b80fb37599.mp4
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Team Members : ![Mr. Prasad Pawar.](https://github.com/Prasad993)![Mr. Makarand Anna Rayate.](https://github.com/mak-rayate)![Mr. Rudra Kumawat.](https://github.com/Rudra-kumawat-22)
-
 We have used `RandomForestRegressor` algorithm to predict first optimal time then to predict price whose architecture is as below:
 
 #### Predict optimal time architecture
@@ -393,26 +388,3 @@ enableCORS = false\n\
 \n\
 " > ~/.streamlit/config.toml
 ```
-
-## Author
--Yasin Shah
-
-## DECLARATION
-
-#### A project report on Machine-Learning-for-Flight-Ticket-Pricing project Successfully submitted By
-
-![Ms. Deepika Goel.](https://github.com/goeld9911/)
-
-![Mr. Prasad Pawar.](https://github.com/Prasad993)
-
-![Mr. Makarand Anna Rayate.](https://github.com/mak-rayate)
-
-![Mr. Chakradhar Reddy Yerragudi.](https://github.com/chakradhar123)
-
-![Mr. Mervana Prit Jitendrabhai.](https://github.com/Prit005)
-
-![Mr. Praneeth Kumar.](https://github.com/praneeth300?tab=repositories)
-
-![Ms. Himadri Chutia.](https://github.com/Himadrichutia)
-
-![Mr. Rudra Kumawat.](https://github.com/Rudra-kumawat-22)
